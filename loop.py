@@ -51,5 +51,3 @@
 #         j+=1
     
 
-a=int(input("enter a number"))
-if(a=%2):
