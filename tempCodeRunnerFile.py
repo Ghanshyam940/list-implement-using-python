@@ -1,6 +1,10 @@
+f=open('file.txt')
+# content=f.read()
+# print(content)
+# f.close()
 
-for i in range(1, n+1):
-    print(" "* (n-i), end="")
-    print("*" * (2*i-1), end="")
-    print("\n")
 
+# file=("Ram is studying in class 10th")
+# file=open('file.txt','w')
+# file.write("Ram is studying in class 10th")
+# file.close() 
